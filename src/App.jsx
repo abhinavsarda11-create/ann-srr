@@ -111,7 +111,7 @@ export default function App() {
         />
         <div className="hero-glow" />
         <div className="hero-inner">
-          <span className="eyebrow">for anushka · from sarda</span>
+          <span className="eyebrow">for anushka · from tumahra sarda</span>
           <h1 className="title">
             I'm sorry,
             <br />
